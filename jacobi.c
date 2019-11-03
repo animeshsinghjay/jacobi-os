@@ -6,7 +6,7 @@
 using namespace std;
 
 #define TOLERANCE 0.001
-#define JACOBI_UPDATE_TOLERANCE 0.001
+#define JACOBI_UPDATE_TOLERANCE 0.0010
 #define FILENAME "iris_stndardized"
 #define samples 150
 #define features 4
